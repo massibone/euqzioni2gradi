@@ -37,4 +37,4 @@ if disc >= 0:
     print("The two solution of the equation are:",
           Fraction(str(x1)),  Fraction(x2))
 else:
-    print("The equation has no solutions")  # print with end whitespace
+    print("The equation has no solutions")  
