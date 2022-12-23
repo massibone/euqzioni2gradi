@@ -1,4 +1,4 @@
-# euqzioni2gradi
+# equazioni2gradi
 How to solve Quadratic Equation
 
 Risolve equazioni di secondo grado e i risultati 0,75 lo visualizza come frazione ( 3/4)
