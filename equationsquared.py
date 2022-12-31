@@ -35,6 +35,6 @@ if disc >= 0:
     dec_to_proper_frac(x1)
     dec_to_proper_frac(x2)
     print("The two solution of the equation are:",
-          Fraction(str(x1)),  Fraction(x2))
+          Fraction(str(x1)),  Fraction(str(x2))
 else:
     print("The equation has no solutions")  
